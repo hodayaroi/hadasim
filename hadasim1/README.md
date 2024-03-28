@@ -10,7 +10,6 @@ npm install
 2. הרצת האפליקציה:
 ![alt text](image.png)
 
-
 כעת תוכלו לגשת לכתובת [http://localhost:3000](http://localhost:3000) בדפדפן כדי להשתמש באפליקציה.
 
 
