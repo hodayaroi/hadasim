@@ -1,11 +1,11 @@
 import './App.css';
 import ClientAdd from "./clientAdd"
-import VaccineAdd from "./vaccineClient"
+import Sum from "./sum"
 function App() {
   return (
     <div className="App">
-      {/* <VaccineAdd/> */}
-     <ClientAdd/>
+      <ClientAdd/>
+      <Sum/>
     </div>
   );
 }

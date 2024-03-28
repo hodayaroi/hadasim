@@ -28,7 +28,6 @@ function ClientAdd() {
         fetch('http://localhost:5000/Client/getClient')
             .then(response => response.json())
             .then(data => {
-                console.log(data);
                 setClientList(data);
             });
     }, []);

@@ -6,6 +6,7 @@
 
 1. התקנה של התלויות החיצוניות:
 npm install
+npm install chart.js
 
 2. הרצת האפליקציה:
 ![alt text](image.png)
@@ -57,3 +58,6 @@ npm install
 
 4 חיסוני קורונה מוגבלים הוספת חיסון
 ![alt text](image-6.png)
+
+סיכום מספר חברים שאינם מחוסנים וגרף המראה כמה חולים היה כל יום
+![alt text](image-7.png)
