@@ -33,6 +33,7 @@ function Sum(){
     culculateSick()
 }, [clientList]);
 
+//calculate how mant sick we have in every day in the last month
 const culculateSick= ()=>{
     const dateToday = new Date()
     const month = String(dateToday.getMonth() + 1).padStart(2, '0');
